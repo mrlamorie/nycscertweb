@@ -5,9 +5,9 @@
 1. Methods
 
 
-#SUNY Stoneyboork
+# SUNY Stoneyboork
 
 
-#Rice CS Cert
+# Rice CS Cert
 
-#CV
+# CV
