@@ -25,6 +25,8 @@ This course is a look at methods of teaching in computer science. It focuses on 
 1.[Live Coding in P5 Activity](https://replit.com/@mrlamorie/cohort-3-summer-work-mrlamorie#methods/02_livecode_P5.md) - an outline for an activity using resouces from Kate Maschmeyer[^1] to live code a simple game in P5 as a directed activity with students.
 1.[Nested Looping](https://replit.com/@mrlamorie/cohort-3-summer-work-mrlamorie#methods/06_scaffold_activity.md) - an adaption of a lession I teach into Java using "Code skeletons" or "Code scaffolds", where the format, spacing, and indenting of comments serve as prompts to the students on how they should code and what the objective is.
 
-[^1]: see Kate's class repl.it at [Hunter Summer work - Kate Maschmeyer](https://github.com/hunter-teacher-cert/cohort-3-summer-work-Kmaschm)
+
 # Other projects
 ...
+
+[^1]: see Kate's class repl.it at [Hunter Summer work - Kate Maschmeyer](https://github.com/hunter-teacher-cert/cohort-3-summer-work-Kmaschm)
