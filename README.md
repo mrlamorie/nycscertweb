@@ -6,8 +6,10 @@
 
 
 # SUNY Stoneyboork
-
+...
 
 # Rice CS Cert
+...
 
 # CV
+...
